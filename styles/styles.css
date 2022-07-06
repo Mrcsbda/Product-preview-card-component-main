@@ -31,7 +31,7 @@ body {
 }
 
 .text-container {
-    padding: 25px 45px 25px 30px;
+    padding: 25px 46px 25px 30px;
 }
 
 h2 {
@@ -122,7 +122,7 @@ p {
     }
 
     .text-container {
-        padding: 35px 25px 25px 32px;
+        padding: 35px 22px 25px 32px;
     }
     
     h2 {
@@ -142,5 +142,8 @@ p {
         margin: 0px 0px 20px 30px;
     }
 
-   
+    .add-to-cart:hover {
+        background-color: rgb(26,64,49);
+        cursor: pointer;
+    }
 }
